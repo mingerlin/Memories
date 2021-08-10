@@ -1,7 +1,7 @@
 # server
 server/node_modules
 server/.env
-server/.Procfile
+# server/.Procfile
 
 # client
 client/node_modules
