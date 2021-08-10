@@ -1,0 +1,13 @@
+# server
+server/node_modules
+server/.env
+server/.Procfile
+
+# client
+client/node_modules
+client/.env
+client/.eslintrc.js
+client/.DS_Store
+client/build
+
+.DS_Store
