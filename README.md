@@ -2,7 +2,7 @@
 
 <br>
 
-#### 👇Link to App: https://mernprojectmemoriesmingerlin.netlify.app👇
+#### 👇 Link to the App: https://mernprojectmemoriesmingerlin.netlify.app 👇
 
 ![Memories](README.png)
 <br>
